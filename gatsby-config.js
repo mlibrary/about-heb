@@ -18,8 +18,15 @@ module.exports = {
       }
     },
     {
+      resolve: `gatsby-plugin-env-variables`,
+      options: {
+        whitelist: ["BRANCH"]
+      },
+    },
+    {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
+        manualInit: true, // https://github.com/netlify/netlify-cms/issues/1737#issuecomment-530992998
         enableIdentityWidget: false,
         modulePath: `${__dirname}/src/cms/cms.js`,
       }
