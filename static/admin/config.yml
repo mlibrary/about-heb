@@ -1,43 +1,17 @@
 media_folder: static/assets
 public_folder: assets
 collections:
-  - name: news
-    label: News
-    folder: src/content/news
+  - name: cards
+    label: Cards
+    folder: src/content/cards
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { name: templateKey, label: "Template Key", widget: hidden, default: news }
+      - { name: templateKey, label: "Template Key", widget: hidden, default: card }
       - { name: title, label: Title }
-      - { name: summary, label: Summary }
-      - { name: date, label: Published, widget: datetime }
-      - { name: body, label: Body, widget: markdown }
-  - name: events
-    label: Events
-    folder: src/content/events
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - { name: templateKey, label: "Template Key", widget: hidden, default: event }
-      - { name: title, label: Title }
-      - { name: summary, label: Summary }
-      - { name: date, label: Published, widget: datetime }
-      - { name: body, label: Body, widget: markdown }
-  - name: books
-    label: Books
-    folder: src/content/books
-    create: true
-    slug: "{{authorLastname}}-{{title}}"
-    fields:
-      - { name: templateKey, label: "Template Key", widget: hidden, default: book }
-      - { name: title, label: Title }
-      - { name: authorLastname, label: "Primary Author Last Name" }
-      - { name: author, label: "Author(s)" }
-      - { name: cover, label: Cover, widget: image }
       - { name: description, label: Description }
-      - { name: orderOnPage, label: "Order on Front Page", widget: number }
-      - { name: readLink, label: "Read Link" }
-      - { name: buyLink, label: "Buy Link" }
+      - { name: buttonLabel, label: "Button Label" }
+      - { name: buttonUrl, label: "Button Url" }
+      - { name: cardImage, label: "Card Image", widget: image }
   - name: pages
     label: Pages
     files:
@@ -53,35 +27,37 @@ collections:
             widget: object
             fields:
               - { name: text, label: Text, widget: markdown }
-          - name: newsletterSection
-            label: "Newsletter Section"
-            widget: object
-            fields:
-              - { name: heading, label: Heading }
-              - { name: description, label: Description }
-              - { name: url, label: "Newsletter URL" }
               - { name: buttonLabel, label: "Button Label" }
-          - name: videoSection
-            label: "Video Section"
+              - { name: buttonUrl, label: "Button URL" }
+          - name: firstCallToActionSection
+            label: "First Call to Action Section"
             widget: object
             fields:
-              - { name: heading, label: Heading }
               - { name: description, label: Description }
-              - { name: embed, label: "Video Embed Code", widget: text }
-          - name: catalogSection
-            label: "Catalog Section"
+              - { name: buttonUrl, label: "Button URL" }
+              - { name: buttonLabel, label: "Button Label" }
+          - name: secondCallToActionSection
+            label: "Second Call to Action Section"
             widget: object
             fields:
-              - { name: heading, label: Heading }
-              - { name: catalogImage, label: "Catalog Image", widget: image }
-              - { name: catalogPdf, label: "Catalog PDF", widget: markdown }
-          - name: mapSection
-            label: "Map Section"
-            widget: object
-            fields:
-              - { name: heading, label: Heading }
               - { name: description, label: Description }
-              - { name: mapImage, label: "Map Image", widget: image }
+              - { name: buttonUrl, label: "Button URL" }
+              - { name: buttonLabel, label: "Button Label" }
+          - name: thridCallToActionSection
+            label: "Third Call to Action Section"
+            widget: object
+            fields:
+              - { name: description, label: Description }
+              - { name: buttonUrl, label: "Button URL" }
+              - { name: buttonLabel, label: "Button Label" }
+          - name: impactUsageSection
+            label: "Impace Usage Section"
+            widget: object
+            fields:
+              - { name: heading, label: Heading }
+              - { name: image, label: Image, widget: image }
+              - { name: totalBooks, label: "Total Books" }
+              - { name: totalViews, label: "Total Views" }
       - file: "src/content/about.md"
         name: about
         label: About

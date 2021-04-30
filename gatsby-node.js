@@ -27,17 +27,18 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     return
   }
 
-  // Filter out books, we don't make pages for those
+  // Filter out cards, we don't make pages for those
   // Also the home-page, or index.js. It just has pieces of content,
   // not a generated page.
   pages = results.data.allMarkdownRemark.edges.filter(edge => {
-    if (edge.node.frontmatter.templateKey === "book" ||
+    if (edge.node.frontmatter.templateKey === "card" ||
         edge.node.frontmatter.templateKey === "home-page") {
       return false
     } else {
       return edge
     }
   })
+
 
   pages.forEach(edge => {
     const pathName = edge.node.frontmatter.path || edge.node.fields.slug;
@@ -63,15 +64,15 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
     // HELIO-3193
     // frontmatter cover paths need to be corrected
-    if (node.frontmatter.cover) {
-      console.log("OLDPATH", node.frontmatter.cover)
-      console.log("FIXPATH", node.frontmatter.cover.replace(/^.*assets/, "/assets"))
+    if (node.frontmatter.cardImage) {
+      console.log("OLDPATH", node.frontmatter.cardImage)
+      console.log("FIXPATH", node.frontmatter.cardImage.replace(/^.*assets/, "/assets"))
       createNodeField({
         node,
-        name: `cover`,
-        //value: path.join("/", node.frontmatter.cover)
-        //value: node.frontmatter.cover
-        value: node.frontmatter.cover.replace(/^.*assets/, "/assets")
+        name: `cardImage`,
+        //value: path.join("/", node.frontmatter.cardImage)
+        //value: node.frontmatter.cardImage
+        value: node.frontmatter.cardImage.replace(/^.*assets/, "/assets")
       })
     }
     // end HELIO-3193
