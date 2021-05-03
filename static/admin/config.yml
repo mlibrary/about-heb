@@ -76,7 +76,6 @@ collections:
       - file: "src/content/impact.md"
         name: impact
         label: Impact
-      - file: "src/content/impact.md"
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: impact-page }
           - { name: title, label: Impact }
