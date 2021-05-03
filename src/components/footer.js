@@ -1,5 +1,6 @@
-import React from 'react'
-import {graphql, useStaticQuery} from 'gatsby'
+import React, { isValidElement } from 'react'
+import {graphql, useStaticQuery, Link} from 'gatsby'
+import { nominalTypeHack } from 'prop-types'
 
 export const titleQuery = graphql`
 {
@@ -8,12 +9,31 @@ export const titleQuery = graphql`
       title
     }
   }
+  quickLinks: allMarkdownRemark (
+    filter: {
+      frontmatter: { templateKey: { eq: "quick-link" } }
+    },
+    sort: {
+      fields: frontmatter___order,
+      order: ASC
+    },
+  ) {
+    edges {
+      node {
+        frontmatter {
+          title
+          pageUrl
+        }
+      }
+    }
+  }
 }
 `
 
 const Footer = () => {
     const data = useStaticQuery(titleQuery)
     const {title} = data.site.siteMetadata
+    const quickLinks = data.quickLinks.edges
     const now = new Date()
     const year = now.getFullYear()
 
@@ -31,7 +51,17 @@ const Footer = () => {
             </p>  
           </div>
           <div className="col-md-6">
-
+            <ul>
+              {
+                quickLinks.map(({node}) => {
+                  return (
+                    <ol>
+                      <a href={node.frontmatter.pageUrl} className="text-light">{node.frontmatter.title}</a>
+                    </ol>
+                  )
+                })
+              }
+            </ul>
           </div>
         </div>
         <div className="row">

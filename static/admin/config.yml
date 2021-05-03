@@ -20,6 +20,7 @@ collections:
       - { name: templateKey, label: "Template Key", widget: hidden, default: quick-link }
       - { name: title, label: "Page Title" }
       - { name: pageUrl, label: "Page URL" }
+      - { name: order, label: "Order in footer" }
   - name: pages
     label: Pages
     files:
