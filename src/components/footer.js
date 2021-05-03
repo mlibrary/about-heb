@@ -1,6 +1,5 @@
 import React, { isValidElement } from 'react'
-import {graphql, useStaticQuery, Link} from 'gatsby'
-import { nominalTypeHack } from 'prop-types'
+import {graphql, useStaticQuery} from 'gatsby'
 
 export const titleQuery = graphql`
 {
