@@ -47,33 +47,8 @@ const Navbar = () => {
               </a>
             </li>
             <li>
-              <a href="/series" className="nav-link text-dark">
-                Series
-              </a>
-            </li>
-            <li>
-              <Link to="/authors" className="nav-link text-dark">
-                Publish With Us
-              </Link>
-            </li>
-            <li>
-              <Link to="/join" className="nav-link text-dark">
-                Join Us
-              </Link>
-            </li>
-            <li>
               <Link to="/impact" className="nav-link text-dark">
                 Impact
-              </Link>
-            </li>
-            <li>
-              <Link to="/news" className="nav-link text-dark">
-                News
-              </Link>
-            </li>
-            <li>
-              <Link to="/events" className="nav-link text-dark">
-                Events
               </Link>
             </li>
           </ul>
