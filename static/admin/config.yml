@@ -75,54 +75,54 @@ collections:
           - { name: title, label: About }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/contact.md"
-          name: contact
-          label: Contact
-          fields:
-            - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
-            - { name: title, label: Contact }
-            - { name: body, label: Body, widger: markdown }
+        name: contact
+        label: Contact
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
+          - { name: title, label: Contact }
+          - { name: body, label: Body, widger: markdown }
       - file: "src/content/librarians.md"
-          name: librarians
-          label: Librarians
-          fields:
-            - { name: templateKey, label: "Template Key", widget: hidden, default: librarians-page }
-            - { name: title, label: Librarians }
-            - { name: body, label: Body, widger: markdown }
+        name: librarians
+        label: Librarians
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: librarians-page }
+          - { name: title, label: Librarians }
+          - { name: body, label: Body, widger: markdown }
       - file: "src/content/publishers.md"
-          name: publishers
-          label: Publishers
-          fields:
-            - { name: templateKey, label: "Template Key", widget: hidden, default: publishers-page }
-            - { name: title, label: Publishers }
-            - { name: body, label: Body, widger: markdown }
+        name: publishers
+        label: Publishers
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: publishers-page }
+          - { name: title, label: Publishers }
+          - { name: body, label: Body, widger: markdown }
       - file: "src/content/societies.md"
-          name: societies
-          label: Societies
-          fields:
-            - { name: templateKey, label: "Template Key", widget: hidden, default: societies-page }
-            - { name: title, label: Societies }
-            - { name: body, label: Body, widger: markdown }
+        name: societies
+        label: Societies
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: societies-page }
+          - { name: title, label: Societies }
+          - { name: body, label: Body, widger: markdown }
       - file: "src/content/collection.md"
-          name: collection
-          label: Collection
-          fields:
-            - { name: templateKey, label: "Template Key", widget: hidden, default: collection-page }
-            - { name: title, label: Collection }
-            - { name: body, label: Body, widger: markdown }
+        name: collection
+        label: Collection
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: collection-page }
+          - { name: title, label: Collection }
+          - { name: body, label: Body, widger: markdown }
       - file: "src/content/help.md"
-          name: help
-          label: Help
-          fields:
-            - { name: templateKey, label: "Template Key", widget: hidden, default: help-page }
-            - { name: title, label: Help }
-            - { name: body, label: Body, widger: markdown }
+        name: help
+        label: Help
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: help-page }
+          - { name: title, label: Help }
+          - { name: body, label: Body, widger: markdown }
       - file: "src/content/faqs.md"
-          name: faqs
-          label: FAQs
-          fields:
-            - { name: templateKey, label: "Template Key", widget: hidden, default: faqs-page }
-            - { name: title, label: FAQs }
-            - { name: body, label: Body, widger: markdown }
+        name: faqs
+        label: FAQs
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: faqs-page }
+          - { name: title, label: FAQs }
+          - { name: body, label: Body, widger: markdown }
       - file: "src/content/impact.md"
         name: impact
         label: Impact
