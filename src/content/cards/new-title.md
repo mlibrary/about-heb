@@ -1,8 +1,8 @@
 ---
 templateKey: card
-title: New Title
-description: New Description
-buttonLabel: button label
-buttonUrl: http://fulcrum.org
-cardImage: /assets/dileo.jpg
+title: A card
+description: The description of the card
+buttonLabel: button lable
+buttonUrl: 'http://fulcrum.org'
+cardImage: assets/hippo.png
 ---
