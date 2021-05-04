@@ -50,6 +50,10 @@ query {
   cards: allMarkdownRemark (
     filter: {
       frontmatter: { templateKey: { eq: "card" } }
+    },
+    sort: {
+      fields: frontmatter___date,
+      order: DESC
     }
   ) {
     edges {

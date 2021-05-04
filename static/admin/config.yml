@@ -12,6 +12,7 @@ collections:
       - { name: buttonLabel, label: "Button Label" }
       - { name: buttonUrl, label: "Button Url" }
       - { name: cardImage, label: "Card Image", widget: image }
+      - { name: date, label: Published, widget: datetime }
   - name: quick-links
     label: "Quick Links"
     folder: src/content/quick-links
