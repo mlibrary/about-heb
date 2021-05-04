@@ -1,8 +1,8 @@
 ---
 templateKey: home-page
 taglineSection:
-  buttonLabel: A Label
-  buttonUrl: http:/fulcrum.org
+  buttonLabel: A Button Label
+  buttonUrl: http://fulcrum.org
   text: >-
     We are a scholarly press supported by more than 50 liberal arts
     institutions. We publish peer-reviewed, born digital, open access monographs

@@ -91,6 +91,7 @@ const IndexPage = ({data}) => {
                 <Tagline text={tagline.text} />
               </div>
               <div className="catalog-container col-md-4">
+                <a className="btn btn-primary" href={tagline.buttonUrl}>{tagline.buttonLabel}</a>
               </div>
             </div>
           </div>
