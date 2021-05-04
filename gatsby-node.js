@@ -28,7 +28,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   }
 
   // Filter out cards, we don't make pages for those
-  // Also the home-page, or index.js. It just has pieces of content,
+  // Also the home-page, quick-links, or index.js. It just has pieces of content,
   // not a generated page.
   pages = results.data.allMarkdownRemark.edges.filter(edge => {
     if (edge.node.frontmatter.templateKey === "card" ||
@@ -64,7 +64,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   if (node.internal.type === `MarkdownRemark`) {
 
     // HELIO-3193
-    // frontmatter cover paths need to be corrected
+    // frontmatter cardImage paths need to be corrected
     if (node.frontmatter.cardImage) {
       console.log("OLDPATH", node.frontmatter.cardImage)
       console.log("FIXPATH", node.frontmatter.cardImage.replace(/^.*assets/, "/assets"))
