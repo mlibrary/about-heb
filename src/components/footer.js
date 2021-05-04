@@ -41,7 +41,7 @@ const Footer = () => {
       <div className="container">
         <div className="row">
           <div className="col-md-6">
-            <a href="/" className="text-light mb-2 scala-sans"><img src="/assets/LeverLogo-PMS292.svg" alt="" height="100" width="auto" className="block" /> Lever Press</a>
+            <a href="/" className="text-light mb-2 scala-sans"><img src="/assets/heb-red-4x.png" alt="" height="100" width="auto" className="block" /> Lever Press</a>
             <small className="text-light d-block">Amherst, MA</small>      
             <small className="d-block"><a className="text-light" href="mailto:info@leverpress.org">info@leverpress.org</a></small>      
             <p className="social">
