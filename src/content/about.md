@@ -20,8 +20,6 @@ ACLS HEB began in 1999 as the History Ebook Project, with funding from the Andre
 
 ACLS HEB is unique among e-book collections in three ways: 1) It is curated by scholars, for scholars; 2) It is hosted on the open-source Fulcrum platform; 3) The curation process has invested in unique and otherwise hard to access backlist content.
 
-
-
 \[Descriptors for three buttons on distinctive features]:
 
 * By Scholars, for Scholars:Contributing ACLS societies ask what titles would make the collection most useful in their respective fields, as well as how to address gaps in the collection.
@@ -30,4 +28,4 @@ ACLS HEB is unique among e-book collections in three ways: 1) It is curated by s
 
 <!--EndFragment-->
 
-<a href="/assets/final_2017-lever-press-bylaws.pdf">Lever Press Bylaws</a>
+<a href=""></a>
