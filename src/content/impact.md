@@ -5,8 +5,8 @@ readershipMapDescription: >-
   ## Readership Map
 
 
-  The Readership Map replays every view or download of Lever Press books or
-  media components that occurred the previous four weeks.
+  The Readership Map replays every view or download of ACLS HEB books or media
+  components that occurred the previous four weeks.
 googleDataStudioDescription: >-
   ## Book Usage
 
@@ -14,4 +14,3 @@ googleDataStudioDescription: >-
   The Google Analytics report shows basic usage data including users, sessions,
   pageviews, popular titles, and user location.
 ---
-
