@@ -36,54 +36,34 @@ const Navbar = () => {
           }
         >
           <ul className="navbar-nav float-right">
+            <li>
+              <Link to="/collection" className="nav-link text-dark">
+                The Collection
+              </Link>
+            </li>
             <li className="nav-item">
               <Link to="/about" className="nav-link text-dark">
                 About
               </Link>
             </li>
             <li>
-              <a href="https://www.fulcrum.org/heb" className="nav-link text-dark">
-                Books
-              </a>
-            </li>
-            <li>
-              <Link to="/impact" className="nav-link text-dark">
-                Impact
-              </Link>
-            </li>
-            <li>
-              <Link to="/contact" className="nav-link text-dark">
-                Contact
-              </Link>
-            </li>
-            <li>
               <Link to="/librarians" className="nav-link text-dark">
-                Librarians
+                For Librarians
               </Link>
             </li>
             <li>
               <Link to="/publishers" className="nav-link text-dark">
-                Publishers
+                For Publishers
               </Link>
             </li>
             <li>
               <Link to="/societies" className="nav-link text-dark">
-                Societies
+                For Societies
               </Link>
             </li>
             <li>
-              <Link to="/collection" className="nav-link text-dark">
-                Collection
-              </Link>
-            </li>
-            <li>
-              <Link to="/help" className="nav-link text-dark">
-                Help
-              </Link>
-            </li>
-            <li>
-              <Link to="/faqs" className="nav-link text-dark">
-                FAQs
+              <Link to="/impact" className="nav-link text-dark">
+                Impact
               </Link>
             </li>
           </ul>
