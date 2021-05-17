@@ -1,12 +1,8 @@
 ---
 templateKey: librarians-page
-title: For Librarians
+title: Information for Librarians
 ---
-**INFORMATION FOR LIBRARIANS**
-
  If you are a library interested in subscribing to ACLS HEB, please contact LYRASIS at [aclsheb@lyrasis.org](mailto:aclsheb@lyrasis.org). 
-
-
 
 Three distinctive features:
 
@@ -16,13 +12,7 @@ Affordable pricing
 
 Unique, out-of-print titles
 
-
-
-
-
 Pricing Chart
-
-
 
 Button links
 
