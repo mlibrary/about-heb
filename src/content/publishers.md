@@ -1,5 +1,5 @@
 ---
 templateKey: publishers-page
-title: For Publishers
+title: Information for Publishers
 ---
-**INFORMATION FOR PUBLISHERS**
+**Overview**
