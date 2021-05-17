@@ -2,23 +2,28 @@
 templateKey: home-page
 taglineSection:
   buttonLabel: A Button Label
-  buttonUrl: http://fulcrum.org
+  buttonUrl: 'http://fulcrum.org'
   text: >-
-    We are a scholarly press supported by more than 50 liberal arts
-    institutions. We publish peer-reviewed, born digital, open access monographs
-    at no cost to our authors or their academic institutions.
+    ACLS Humanites Ebook (ACLS HEB) is a digital collection of over 5,700
+    foundational books in the humanities and social sciences, presented in
+    collaboration with over 120 publishers and Michigan Publishing.
 firstCallToActionSection:
-  description: First Call To Action
-  buttonLabel: First
-  buttonUrl: http://fulcrum.org
+  description: 'Keep up to date with collection updates, news, and more'
+  buttonLabel: Join Our List
+  buttonUrl: >-
+    https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=d47a9ddff3
 secondCallToActionSection:
-  description: Second Call To Action
-  buttonLabel: Second
-  buttonUrl: http://fulcrum.org
+  description: Learn how your press content can be included in the collection
+  buttonLabel: How to Contribute
+  buttonUrl: link to publishers page
 thirdCallToActionSection:
   description: Third Call To Action
   buttonLabel: Third
-  buttonUrl: http://fulcrum.org
+  buttonUrl: 'http://fulcrum.org'
+thridCallToActionSection:
+  description: Bring the ACLS HEB collection to your library
+  buttonUrl: Link to Librarians page
+  buttonLabel: Subscribe Here
 impactUsageSection:
   heading: Our impact and reach is global
   image: /assets/screen-shot-2019-11-18-at-11.29.58-am.png
