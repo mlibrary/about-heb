@@ -2,4 +2,4 @@
 templateKey: publishers-page
 title: For Publishers
 ---
-**FOR PUBLISHERS**
+**INFORMATION FOR PUBLISHERS**
