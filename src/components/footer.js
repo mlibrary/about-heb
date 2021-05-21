@@ -41,7 +41,7 @@ const Footer = () => {
       <div className="container">
         <div className="row">
           <div className="col-md-6">
-            <a href="/" className="text-light mb-2 scala-sans"><img src="/assets/heb-red-4x.png" alt="ACLS Humanities Ebook" height="100" width="auto" className="block" /></a>
+            <a href="/" className="text-light mb-2 scala-sans"><img src="/assets/HEB-RED.svg" alt="ACLS Humanities Ebook" height="100" width="auto" className="block" /></a>
             <small className="text-light d-block">New York, NY</small>      
             <small className="d-block"><a className="text-light" href="/contact">Contact Us</a></small>      
             <p className="social">

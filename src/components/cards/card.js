@@ -10,21 +10,18 @@ const Card = ({cardImage, card}) => {
   } = card
 
   return (
-    <div className="card mb-3 book-card">
-      <div className="row no-gutters">
-        <div className="col-md-4">
-          <img src={cardImage} alt={`${title}`} className="card-img" />
+    <div className="card col-md-5 mb-3">      
+      <img src={cardImage} alt={`${title}`} className="card-img" />
+      <div className="card-body row">
+        <div className="col-xs-8">
+          <h3 className="card-title">{title}</h3>
+          <p className="card-text">{description}</p>
         </div>
-        <div className="col-md-8">
-          <div className="card-body">
-            <h3 className="card-title">{title}</h3>
-            <p className="card-text">{description}</p>
-            <a className="card-link btn btn-secondary btn-lg" role="button" href={buttonUrl}>{buttonLabel}</a>
-          </div>
+        <div className="col-xs-4">
+          <a className="card-link btn btn-secondary" role="button" href={buttonUrl}>{buttonLabel}</a>
         </div>
       </div>
     </div>
-
   )
 }
 

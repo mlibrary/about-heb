@@ -6,7 +6,7 @@ const CardList = ({cards}) => {
   return (
     <div>
       <h2 className="sr-only">Recent Cards</h2>
-      <div className="row book-card-list">
+      <div className="row card-list">
       {
         cards.map(({node}) => {
           return (

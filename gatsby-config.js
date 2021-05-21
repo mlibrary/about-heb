@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Humanities E-Book`,
-    description: `Humanities E-Book`,
-    author: `Humanities E-Book`,
+    title: `ACLS Humanities EBook`,
+    description: `ACLS Humanites Ebook (ACLS HEB) is a digital collection of over 5,700 foundational books in the humanities and social sciences, presented in collaboration with over 120 publishers and Michigan Publishing.`,
+    author: `ACLS Humanities EBook`,
   },
   plugins: [
     {
@@ -66,7 +66,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/HEB-REDBG@4x.png`, // This path is relative to the root of the site.
+        icon: `src/images/HEB-REDBLACK.svg`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

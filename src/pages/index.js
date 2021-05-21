@@ -54,7 +54,8 @@ query {
     sort: {
       fields: frontmatter___date,
       order: DESC
-    }
+    },
+    limit: 2
   ) {
     edges {
       node {
@@ -85,45 +86,39 @@ const IndexPage = ({data}) => {
   return (
     <Layout>
       <SEO title="Home" />
-        <section className="books-container container">
+        <section className="cards-container container">
           <CardList cards={cards} />
         </section>
-        <section className="tagline-catalog-container">
+        <section className="tagline-container">
           <div className="container">
             <div className="row">
-              <div className="tagline-container col-md-8">
+              <div className="tagline col-md-7">
                 <Tagline text={tagline.text} />
               </div>
-              <div className="catalog-container col-md-4">
-                <a className="btn btn-primary" href={tagline.buttonUrl}>{tagline.buttonLabel}</a>
+              <div className="cta-tagline col-md-3">
+                <a className="btn btn-secondary" href={tagline.buttonUrl}>{tagline.buttonLabel}</a>
               </div>
             </div>
           </div>
         </section>
-        <section className="author-library-container">
+        <section className="cta-container">
           <div className="container">
             <div className="row">
-              <div className="author-container col-sm">
+              <div className="cta-1-container col-sm">
                 <CallToAction callToAction={firstCallToAction} />
               </div>
-              <div className="newsletter-container col-sm">
+              <div className="cta-2-container col-sm">
                 <CallToAction callToAction={secondCallToAction} />
               </div>
-              <div className="library-container col-sm">
+              <div className="cta-3-container col-sm">
                 <CallToAction callToAction={thirdCallToAction} />
               </div>
             </div>
           </div>
         </section>
         <section className="video-impact-container">
-          <div className="container">
-          <div className="row">
-            <div className="video-container col-md-6">
-            </div>
-            <div className="map-container col-md-6">
+          <div className="container map-container">
               <ImpactUsage impactUsage={impactUsage} />
-            </div>
-          </div>
           </div>
         </section>
     </Layout>
