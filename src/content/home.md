@@ -25,8 +25,8 @@ thridCallToActionSection:
   buttonUrl: Link to Librarians page
   buttonLabel: Subscribe Here
 impactUsageSection:
-  heading: Our impact and reach is global
-  image: /assets/screen-shot-2019-11-18-at-11.29.58-am.png
-  totalBooks: 1
-  totalViews: 10
+  heading: Global Reach and Impact
+  image: assets/impact-usage.png
+  totalBooks: '5,653'
+  totalViews: '2,622,099'
 ---
