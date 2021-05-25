@@ -18,8 +18,8 @@ ACLS HEB is unique among e-book collections in three ways: 1) It is curated by s
 
 \[Descriptors for three buttons on distinctive features]:
 
-* By Scholars, for Scholars:Contributing ACLS societies ask what titles would make the collection most useful in their respective fields, as well as how to address gaps in the collection.
-* Fulcrum Platform:[Fulcrum](http://www.fulcrum.org)aims to present long-form scholarly research in its full richness, and it emphasizes the values of durability, discoverability, accessibility, and flexibility.
+* By Scholars, for Scholars: Contributing ACLS societies ask what titles would make the collection most useful in their respective fields, as well as how to address gaps in the collection.
+* Fulcrum Platform: [Fulcrum](http://www.fulcrum.org) aims to present long-form scholarly research in its full richness, and it emphasizes the values of durability, discoverability, accessibility, and flexibility.
 * Unique Content: Curated selection on a durable platform means more access to backlist content that is otherwise inaccessible.
 
 <!--EndFragment-->
