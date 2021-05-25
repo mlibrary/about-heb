@@ -26,7 +26,7 @@ thridCallToActionSection:
   buttonLabel: Subscribe Here
 impactUsageSection:
   heading: Global Reach and Impact
-  image: assets/impact-usage.png
+  image: /assets/impact-usage.png
   totalBooks: '5,653'
   totalViews: '2,622,099'
 ---
