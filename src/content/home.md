@@ -12,7 +12,7 @@ firstCallToActionSection:
   buttonUrl: >-
     https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=d47a9ddff3
 secondCallToActionSection:
-  description: Bring the ACLS HEB collection to your library
+  description: Bring the collection to your library
   buttonLabel: Subscribe Here
   buttonUrl: link to librarians page
 thirdCallToActionSection:
