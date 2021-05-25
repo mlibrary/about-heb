@@ -4,13 +4,21 @@ title: Information for Librarians
 ---
  If you are a library interested in subscribing to ACLS HEB, please contact LYRASIS at [aclsheb@lyrasis.org](mailto:aclsheb@lyrasis.org). 
 
-Three distinctive features:
+Three distinctive features with icons:
 
-Curated by scholars
+Curated by scholars / Affordable pricing / Unique, out-of-print titles
 
-Affordable pricing
+Prestigious Collection
 
-Unique, out-of-print titles
+ACLS HEB includes foundational backlist titles in the humanities and social sciences, with 150-200 titles added annually. 
+
+Collaborative
+
+Michigan Publishing partners with libraries to ensure that ACLS HEB is both competitve and appealing in scope, pricing, and licensing. 
+
+Enriched User Experience
+
+The Fulcrum platform provides the user with the best possible reading experience, including an easy-to-navigate accessible e-reader with PDF downloads. 
 
 Pricing Chart
 

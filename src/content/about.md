@@ -2,11 +2,11 @@
 templateKey: about-page
 title: About ACLS HEB
 ---
-The American Council of Learned Societies’ Humanities Ebook collection\[link to title list]is a collection of over 5,500 scholarly books, from over 125 publishers, sold as a subscription package to over 700 library subscribers. ACLS HEB is a collection curated by scholars for scholars; members of ACLS learned societies nominate books for inclusion, and MPUB licenses them and pays royalties to contributing publishers.
+The American Council of Learned Societies’ Humanities Ebook collection\[link to title list]is a collection of over 5,500 scholarly books, from over 125 publishers, sold as a subscription package to over 700 library subscribers. ACLS HEB is a collection curated by scholars for scholars; members of ACLS learned societies nominate books for inclusion, and Michigan Publishing licenses them and pays royalties to contributing publishers.
 
 **Diversity, Equity, Inclusion, and Accessibility**
 
-The ACLS Humanities E-Book Collection (ACLS HEB) is a collaboration between the American Council of Learned Societies (ACLS), Michigan Publishing, and the Fulcrum publishing platform. There are three main areas in which ACLS and Michigan Publishing have worked together to improve diversity and inclusion for the ACLS HEB collection: through introducing values-based criteria into collection development; through improving the accessibility of the platform; and through experimenting with open access models that increase equitable access. Read more about our shared DEIA commitments\[here].
+The ACLS Humanities E-Book Collection (ACLS HEB) is a collaboration between the American Council of Learned Societies (ACLS), Michigan Publishing, and the Fulcrum publishing platform. There are three main areas in which ACLS and Michigan Publishing have worked together to improve diversity and inclusion for the ACLS HEB collection: through introducing values-based criteria into collection development; through improving the accessibility of the platform; and through experimenting with open access models that increase equitable access. Read more about our [shared DEIA commitments here](https://docs.google.com/document/d/12zs1fttRQ3cz9iXJfrWJFtUD_1p0horfCRnleNkEhiA/edit?usp=sharing).
 
 **History**
 
@@ -18,8 +18,8 @@ ACLS HEB is unique among e-book collections in three ways: 1) It is curated by s
 
 \[Descriptors for three buttons on distinctive features]:
 
-* By Scholars, for Scholars:Contributing ACLS societies ask what titles would make the collection most useful in their respective fields, as well as how to address gaps in the collection.
-* Fulcrum Platform:[Fulcrum](http://www.fulcrum.org)aims to present long-form scholarly research in its full richness, and it emphasizes the values of durability, discoverability, accessibility, and flexibility.
+* By Scholars, for Scholars: Contributing ACLS societies ask what titles would make the collection most useful in their respective fields, as well as how to address gaps in the collection.
+* Fulcrum Platform: [Fulcrum](http://www.fulcrum.org) aims to present long-form scholarly research in its full richness, and it emphasizes the values of durability, discoverability, accessibility, and flexibility.
 * Unique Content: Curated selection on a durable platform means more access to backlist content that is otherwise inaccessible.
 
 <!--EndFragment-->
