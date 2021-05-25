@@ -4,8 +4,9 @@ taglineSection:
   buttonLabel: Explore the Collection
   buttonUrl: 'http://fulcrum.org/heb'
   text: >-
-    The ACLS Humanities Ebook (ACLS HEB) presents thousands of foundational
-    books in the humanities and social sciences from hundreds of publishers.
+    The ACLS Humanities Ebook Collection (ACLS HEB) presents thousands of
+    foundational books in the humanities and social sciences from hundreds of
+    publishers.
 firstCallToActionSection:
   description: 'Keep up to date with collection updates, news, and more'
   buttonLabel: Join Our List
