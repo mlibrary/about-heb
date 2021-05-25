@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About ACLS HEB
 ---
-The American Council of Learned Societies’ Humanities Ebook collection\[link to title list]is a collection of over 5,500 scholarly books, from over 125 publishers, sold as a subscription package to over 700 library subscribers. ACLS HEB is a collection curated by scholars for scholars; members of ACLS learned societies nominate books for inclusion, and MPUB licenses them and pays royalties to contributing publishers.
+The American Council of Learned Societies’ Humanities Ebook collection\[link to title list]is a collection of over 5,500 scholarly books, from over 125 publishers, sold as a subscription package to over 700 library subscribers. ACLS HEB is a collection curated by scholars for scholars; members of ACLS learned societies nominate books for inclusion, and Michigan Publishing licenses them and pays royalties to contributing publishers.
 
 **Diversity, Equity, Inclusion, and Accessibility**
 
