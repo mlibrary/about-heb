@@ -1,6 +1,6 @@
 ---
 templateKey: quick-link
-title: Link 1
-pageUrl: 'http://fulcrum.org/heb'
+title: Help/FAQ
+pageUrl: '/help'
 order: 1
 ---

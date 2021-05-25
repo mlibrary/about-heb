@@ -44,6 +44,7 @@ h5 {
     @include proxima-nova;
     font-weight: 700;
     color:$heb-brand-color;
+    text-transform: uppercase;
 }
 
 h2 {
@@ -174,6 +175,8 @@ header {
     };
     .card-body {
       justify-content: space-around;
+      margin: 0 !important;
+      flex-wrap: nowrap;
     }
 
     h3 {
@@ -225,15 +228,33 @@ header {
 }
 
 // impact
-.map {
-  height: 60%;
-}
 
-.map-container a:hover {
-  text-decoration: none;
-  img {
-    filter: grayscale(80%);
-    filter: contrast(50%);
+.map-container {
+  background: url(/assets/impact-usage.png) no-repeat;
+  background-size: cover;
+  height: 100%;
+  overflow: auto;
+  padding-top: 1.5rem;
+  padding-bottom: 4rem;
+
+  .stats {
+    display: flex;
+    justify-content: space-evenly;
+    @include proxima-nova;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 6.5rem;
+    margin-bottom: 6.5rem;
+
+    svg {
+      display: block;
+      margin: 0 auto;
+      width: 80%;
+    }
+  }
+
+  a {
+    font-size: 25px;
   }
 }
 

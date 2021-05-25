@@ -1,8 +1,8 @@
 ---
 templateKey: home-page
 taglineSection:
-  buttonLabel: A Button Label
-  buttonUrl: 'http://fulcrum.org'
+  buttonLabel: Learn More
+  buttonUrl: /about
   text: >-
     ACLS Humanites Ebook (ACLS HEB) is a digital collection of over 5,700
     foundational books in the humanities and social sciences, presented in
@@ -15,14 +15,10 @@ firstCallToActionSection:
 secondCallToActionSection:
   description: Learn how your press content can be included in the collection
   buttonLabel: How to Contribute
-  buttonUrl: link to publishers page
+  buttonUrl: /publishers
 thirdCallToActionSection:
-  description: Third Call To Action
-  buttonLabel: Third
-  buttonUrl: 'http://fulcrum.org'
-thridCallToActionSection:
   description: Bring the ACLS HEB collection to your library
-  buttonUrl: Link to Librarians page
+  buttonUrl: /librarians
   buttonLabel: Subscribe Here
 impactUsageSection:
   heading: Global Reach and Impact

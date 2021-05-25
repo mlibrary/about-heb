@@ -92,11 +92,11 @@ const IndexPage = ({data}) => {
         <section className="tagline-container">
           <div className="container">
             <div className="row">
-              <div className="tagline col-md-7">
+              <div className="tagline col-md-8">
                 <Tagline text={tagline.text} />
               </div>
               <div className="cta-tagline col-md-3">
-                <a className="btn btn-secondary" href={tagline.buttonUrl}>{tagline.buttonLabel}</a>
+                <a className="btn btn-lg btn-secondary" href={tagline.buttonUrl}>{tagline.buttonLabel}</a>
               </div>
             </div>
           </div>
@@ -116,8 +116,8 @@ const IndexPage = ({data}) => {
             </div>
           </div>
         </section>
-        <section className="video-impact-container">
-          <div className="container map-container">
+        <section className="impact-container">
+          <div className="container">
               <ImpactUsage impactUsage={impactUsage} />
           </div>
         </section>

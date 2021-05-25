@@ -21,13 +21,13 @@ const Navbar = () => {
   <div className="header-nav-container">    
       <header>
         <div className="container py-3">
-          <div className="row flex-nowrap justify-content-end">
-            <div className="col-8">
+          <div className="row justify-content-end">
+            <div className="col-md-8">
               <a href="/" className="navbar-brand">
                 <img src="/assets/HEB-REDBLACK_NOFILL_CROP.svg" alt="" height="70" width="auto" className="navbar-brand-logo"/> <h1>ACLS<br/> Humanities EBook</h1>
               </a>
             </div>
-            <div className="col-4 pt-3">
+            <div className="col-md-4 pt-3">
               <form className="search-form navbar-left navbar-form" action="https://fulcrum.org/heb?locale=en" acceptCharset="UTF-8" method="get">
                 <fieldset>
                   <div className="input-group">
