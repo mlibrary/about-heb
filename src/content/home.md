@@ -12,13 +12,17 @@ firstCallToActionSection:
   buttonUrl: >-
     https://umich.us9.list-manage.com/subscribe?u=a4cd6f758656d0e1542fcb495&id=d47a9ddff3
 secondCallToActionSection:
-  description: Learn how your press content can be included in the collection
-  buttonLabel: How to Contribute
-  buttonUrl: /publishers
-thirdCallToActionSection:
   description: Bring the ACLS HEB collection to your library
-  buttonUrl: /librarians
   buttonLabel: Subscribe Here
+  buttonUrl: link to librarians page
+thirdCallToActionSection:
+  description: Third Call To Action
+  buttonLabel: Third
+  buttonUrl: 'http://fulcrum.org'
+thridCallToActionSection:
+  description: Visualize our global reach and impact
+  buttonUrl: link to impact page
+  buttonLabel: Explore the Data
 impactUsageSection:
   heading: Global Reach and Impact
   image: /assets/impact-usage.png
