@@ -6,6 +6,10 @@ title: Information for Librarians
 
 Three distinctive features with icons:
 
+* Access: We offer individual subscriptions to ACLS society members at the discounted price of $25/year. This is especially helpful for your members who are not affiliated with an academic library system (e.g. independent scholars, contingent faculty, etc.).Learn more about individual access.
+* Exposure: ACLS HEB can host and highlight outstanding titles in your discipline. We are especially eager to include materials that have not been digitized or are otherwise difficult to access. Learn more about the curation process here. [[link to this description](https://docs.google.com/document/d/1xpKKuMI3oVsgG9WgubKVvNwynUoeEAcRlGwi6ikWGKg/edit?usp=sharing)]
+* Innovative Partnerships: We depend upon communication with learned societies to foster innovation in academic publishing and get the most out of our [Fulcrum platform](https://fulcrum.org/).
+
 Curated by scholars / Affordable pricing / Unique, out-of-print titles
 
 Prestigious Collection
