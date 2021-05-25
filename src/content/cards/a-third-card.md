@@ -1,6 +1,6 @@
 ---
 templateKey: card
-title: Attention Subscribers
+title: Updates for Library Subscribers
 description: >-
   MARC Records have been updated with the latest titles. Select the button to
   download.
