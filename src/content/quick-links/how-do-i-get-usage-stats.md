@@ -1,6 +1,6 @@
 ---
 templateKey: quick-link
-title: How do I get usage stats?
-pageUrl: '/help#usage-stats'
+title: Usage Stats
+pageUrl: 'https://www.fulcrum.org/counter_reports'
 order: 5
 ---
