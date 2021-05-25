@@ -1,6 +1,6 @@
 ---
 templateKey: card
-title: New Titles Now Available
+title: New Titles Available
 description: We've added over 180 new titles to the collection from over 20 publishers.
 buttonLabel: Explore List
 buttonUrl: 'https://umich.app.box.com/s/v71e4fpcuok3q8amypjhm4tuipdmd5pr'
