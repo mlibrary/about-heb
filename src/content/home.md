@@ -15,11 +15,11 @@ firstCallToActionSection:
 secondCallToActionSection:
   description: Bring the collection to your library
   buttonLabel: Subscribe Here
-  buttonUrl: link to librarians page
+  buttonUrl: /librarians
 thirdCallToActionSection:
-  description: Third Call To Action
-  buttonLabel: Third
-  buttonUrl: 'http://fulcrum.org'
+  description: Visualize our global reach and impact
+  buttonLabel: Explore the Data
+  buttonUrl: /impact
 thridCallToActionSection:
   description: Visualize our global reach and impact
   buttonUrl: link to impact page
