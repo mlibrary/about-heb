@@ -60,14 +60,6 @@ collections:
               - { name: description, label: Description }
               - { name: buttonUrl, label: "Button URL" }
               - { name: buttonLabel, label: "Button Label" }
-          - name: impactUsageSection
-            label: "Impace Usage Section"
-            widget: object
-            fields:
-              - { name: heading, label: Heading }
-              - { name: image, label: Image, widget: image }
-              - { name: totalBooks, label: "Total Books" }
-              - { name: totalViews, label: "Total Views" }
       - file: "src/content/about.md"
         name: about
         label: About
@@ -102,13 +94,6 @@ collections:
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: societies-page }
           - { name: title, label: Societies }
-          - { name: body, label: Body, widget: markdown }
-      - file: "src/content/collection.md"
-        name: collection
-        label: Collection
-        fields:
-          - { name: templateKey, label: "Template Key", widget: hidden, default: collection-page }
-          - { name: title, label: Collection }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/help.md"
         name: help

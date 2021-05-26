@@ -45,7 +45,7 @@ const Navbar = () => {
               </form>
               <div className="nav-browse mt-1">
                 <a className="pr-4" href="https://fulcrum.org/heb/">Browse Books</a>
-                <a href="/help">Help</a>
+                <a href="https://tools.lib.umich.edu/confluence/display/FPS/ACLS+HEB">Help</a>
               </div>
             </div> 
           </div>
@@ -54,9 +54,6 @@ const Navbar = () => {
       <div className="nav-scroller">
         <div className="container">
           <nav className="nav d-flex justify-content-between">
-            <Link to="/collection" className="nav-link text-dark">
-              The Collection
-            </Link>
             <Link to="/about" className="nav-link text-dark">
               About
             </Link>    

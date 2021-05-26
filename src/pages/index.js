@@ -7,7 +7,6 @@ import {graphql} from "gatsby"
 import CardList from "../components/cards/cardList"
 import Tagline from "../components/tagline"
 import CallToAction from "../components/callToAction"
-import ImpactUsage from "../components/impactUsage"
 
 export const IndexQuery = graphql`
 query {
@@ -32,18 +31,6 @@ query {
         description
         buttonUrl
         buttonLabel
-      }
-      impactUsageSection {
-        heading
-        totalBooks
-        totalViews
-        image {
-          childImageSharp {
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
       }
     }
   }
@@ -80,7 +67,6 @@ const IndexPage = ({data}) => {
   const firstCallToAction = data.home.frontmatter.firstCallToActionSection
   const secondCallToAction = data.home.frontmatter.secondCallToActionSection
   const thirdCallToAction = data.home.frontmatter.thirdCallToActionSection
-  const impactUsage = data.home.frontmatter.impactUsageSection
   const cards = data.cards.edges
 
   return (
@@ -114,11 +100,6 @@ const IndexPage = ({data}) => {
                 <CallToAction callToAction={thirdCallToAction} />
               </div>
             </div>
-          </div>
-        </section>
-        <section className="impact-container">
-          <div className="container">
-              <ImpactUsage impactUsage={impactUsage} />
           </div>
         </section>
     </Layout>

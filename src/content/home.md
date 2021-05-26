@@ -20,13 +20,4 @@ thirdCallToActionSection:
   description: Visualize our global reach and impact
   buttonLabel: Explore the Data
   buttonUrl: /impact
-thridCallToActionSection:
-  description: Visualize our global reach and impact
-  buttonUrl: link to impact page
-  buttonLabel: Explore the Data
-impactUsageSection:
-  heading: Global Reach and Impact
-  image: /assets/impact-usage.png
-  totalBooks: '5,653'
-  totalViews: '2,622,099'
 ---
