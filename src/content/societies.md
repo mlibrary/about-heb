@@ -4,7 +4,7 @@ title: Information for Societies
 ---
 <p class="lead">As the only ebook collection curated by scholars, for scholars, ACLS HEB depends on the <a href="https://acls.org/Member-Societies/Society-Profiles.aspx">member societies of ACLS</a> to partner with us in selecting new titles and curating the collection over time. We endeavor to maintain ongoing communication with as many ACLS societies as possible, and we hope that offering discounted individual access to the collection will help learned societies better serve their independent, contingent, or otherwise precarious members. If you are a representative of a learned society and wish to become involved with selection or individual access, please contact ACLS HEB’s Acquiring Editor, Sean Guynes, at <a href="mailto:guynes@umich.edu">guynes@umich.edu</a>.</p>
 
-##What can ACLS HEB do for Learned Societies?
+## What can ACLS HEB do for Learned Societies?
 
 <div class="features">
     <div class="row justify-content-between py-4">

@@ -4,7 +4,7 @@ title: Information for Librarians
 ---
 <p class="lead">If you are a library interested in subscribing to ACLS HEB, please contact LYRASIS at <a href="mailto:aclsheb@lyrasis.org">aclsheb@lyrasis.org</a>.</p>
 
-##Distinctive Features
+## Distinctive Features
 
 <div class="features">
     <div class="row justify-content-between py-4">
@@ -24,7 +24,7 @@ title: Information for Librarians
 </div>
 
 
-##Pricing Options
+## Pricing Options
 <div class="row pt-2 justify-content-between">
     <div class="col-md-6">
         <table class="table">
