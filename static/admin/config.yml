@@ -53,7 +53,7 @@ collections:
               - { name: description, label: Description }
               - { name: buttonUrl, label: "Button URL" }
               - { name: buttonLabel, label: "Button Label" }
-          - name: thridCallToActionSection
+          - name: thirdCallToActionSection
             label: "Third Call to Action Section"
             widget: object
             fields:
