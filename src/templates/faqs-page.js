@@ -10,7 +10,7 @@ const Faqs = ({data}) => {
   return (
     <Layout>
       <SEO title={title} />
-      <div className="container page-container">
+      <div className="container">
         <Title title={title} />
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </div>

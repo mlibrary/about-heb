@@ -19,7 +19,7 @@ const Impact = ({data}) => {
   return (
     <Layout>
       <SEO title={title} />
-      <div className="container page-container">
+      <div className="container">
         <Title title={title} />
         <div className="readership-map">
           <ReactMarkdown source={readershipMapDescription} />

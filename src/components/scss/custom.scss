@@ -47,6 +47,10 @@ h5 {
     text-transform: uppercase;
 }
 
+h1 {
+  font-size: 2.2rem;
+}
+
 h2 {
   margin-top: 2rem;
 }
@@ -158,6 +162,7 @@ header {
 // cards
 
 .cards-container {
+  padding-bottom: 3rem;
 
   .card-list {
     justify-content: space-evenly;
@@ -271,7 +276,7 @@ p.social {
 
 // sub-pages
 .page-container {
-  padding: 3rem 0;
+  padding-top: 3rem;
 }
 
 // footer
