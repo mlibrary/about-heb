@@ -44,15 +44,20 @@ h5 {
     @include proxima-nova;
     font-weight: 700;
     color:$heb-brand-color;
-    text-transform: uppercase;
 }
 
 h1 {
-  font-size: 2.2rem;
+  font-size: 1.95rem;
+  text-transform: uppercase;
 }
 
 h2 {
   margin-top: 2rem;
+  font-size: 1.6rem;
+}
+
+h3 {
+  font-size: 1.3rem;
 }
 
 h3, 
@@ -61,6 +66,14 @@ h5 {
   margin-top: 1.5rem;
 }
 
+a:focus,
+button:focus {
+  color: #495057 !important;
+  background-color: #fff !important;
+  border-color: #737373 !important;
+  outline: 0 !important;
+  box-shadow: 0 0 0 0.2rem rgba(51, 51, 51, 0.25) !important;
+}
 
 
 // links
@@ -221,13 +234,12 @@ header {
 
 // call to action buttons
 .cta-container {
-  padding: 1.5rem 0;
-  border-bottom: 2px solid $heb-red;
+  padding-top: 1.5rem;
   border-top: 1px solid rgba(0,0,0,.125);
   background-color: #ffffff;
 
   .cta-1-container, .cta-2-container, .cta-3-container {
-    margin: 15px 0;
+    margin-top: 15px;
   }
 }
 
@@ -277,13 +289,21 @@ p.social {
 // sub-pages
 .page-container {
   padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 // footer
 .footer {
   background-color: $heb-accent-color-dark;
-  border-top: 1px solid rgba(0,0,0,.125);
-  padding: 3rem 0;
+  border-top: 2px solid $heb-red;
+  padding: 3rem 0 1rem;
+
+  h2 {
+    font-size: 17px;
+    @include proxima-nova;
+    text-transform: uppercase;
+    margin-top: 0;
+  }
 
   .fulcrum {
     vertical-align: baseline;
