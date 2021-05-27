@@ -298,6 +298,21 @@ p.social {
   border-top: 2px solid $heb-red;
   padding: 3rem 0 1rem;
 
+  .partners {
+    display: flex;
+    flex-direction: column;
+    img {
+      height: 60px;
+    }
+    a {display: inline-block;}
+    a > img {
+      display: inline-block;
+    }
+    p {
+      font-size: 12px;
+    }
+  }
+
   h2 {
     font-size: 17px;
     @include proxima-nova;
