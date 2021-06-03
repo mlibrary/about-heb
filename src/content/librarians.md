@@ -11,7 +11,7 @@ title: Information for Librarians
         <div class="col-md-4 text-center">
             <svg xmlns="http://www.w3.org/2000/svg" height="100px" viewBox="0 0 24 24" width="100px" fill="#333333"><title>Library Books Icon</title><path d="M0 0h24v24H0V0z" fill="none"/><path d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H8V4h12v12zM10 9h8v2h-8zm0 3h4v2h-4zm0-6h8v2h-8z"/></svg>
             <h3 class="proxima-nova">Curated by Scholars</h3>
-<p> [new text]</p>
+<p> Michigan Publishing partners with libraries and ACLS societies to add titles that make the collection most useful in its respective fields, as well as how to address gaps in the collection.</p>
         </div>
         <div class="col-md-4 text-center">
             <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="100px" viewBox="0 0 24 24" width="100px" fill="#333333"><g><title>Dollar sign with checkmark icon</title><path d="M0,0h24v24H0V0z" fill="none"/></g><g><g><path d="M12,13V9c0-0.55-0.45-1-1-1H7V6h5V4H9.5V3h-2v1H6C5.45,4,5,4.45,5,5v4c0,0.55,0.45,1,1,1h4v2H5v2h2.5v1h2v-1H11 C11.55,14,12,13.55,12,13z"/><polygon points="19.59,12.52 13.93,18.17 11.1,15.34 9.69,16.76 13.93,21 21,13.93"/></g></g></svg>
