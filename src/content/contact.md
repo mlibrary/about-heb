@@ -6,4 +6,4 @@ For general inquiries or problems with this website or a title in the collection
 
 If you are interested in an institutional subscription to ACLS HEB, please email LYRASIS at [aclsheb@lyrasis.org](mailto:aclsheb@lyrasis.org).
 
-For publisher inquires or questions about royalties, please email [ACLS.HEB.royalties@umich.edu](mailto:ACLS.HEB.royalties@umich.edu).
+For publisher inquiries or rightsholder questions about royalties, please email [ACLS.HEB.royalties@umich.edu](mailto:ACLS.HEB.royalties@umich.edu).
