@@ -298,6 +298,11 @@ p.social {
   border-top: 2px solid $heb-red;
   padding: 3rem 0 1rem;
 
+  ul li a,
+  ol li a {
+    text-decoration: none;
+  }
+
   .partners {
     display: flex;
     flex-direction: column;
