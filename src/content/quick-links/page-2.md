@@ -1,6 +1,6 @@
 ---
 templateKey: quick-link
 title: Title List
-pageUrl: 'https://umich.app.box.com/s/v71e4fpcuok3q8amypjhm4tuipdmd5pr'
+pageUrl: 'https://umich.box.com/s/tg64p0ysonwdq76zh07o8wczyaygxb0f'
 order: 2
 ---
