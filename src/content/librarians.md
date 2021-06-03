@@ -64,7 +64,7 @@ title: Information for Librarians
         </table>
     </div>
     <div class="col-md-4">
-        <a class="btn btn-lg btn-secondary my-4" href="https://umich.app.box.com/s/v71e4fpcuok3q8amypjhm4tuipdmd5pr">Download Title List</a>
+        <a class="btn btn-lg btn-secondary my-4" href="https://umich.box.com/s/tg64p0ysonwdq76zh07o8wczyaygxb0f">Download Title List</a>
         <a class="btn btn-lg btn-secondary my-4" href="https://www.lyrasis.org/content/Pages/product-details.aspx?pid=6A3CE662-3001-E111-B2CE-00155D0A1702">Request a Quote</a>
     </div>
 
