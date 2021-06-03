@@ -117,3 +117,10 @@ collections:
           - { name: title, label: Impact }
           - { name: readershipMapDescription, label: "Readership Map Description", widget: markdown }
           - { name: googleDataStudioDescription, label: "Google Data Studio Description", widget: markdown }
+      - file: "src/content/terms.md"
+        name: terms
+        label: Terms
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: terms-page }
+          - { name: title, label: Terms }
+          - { name: body, label: Body, widget: markdown }
