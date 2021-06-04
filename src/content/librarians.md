@@ -27,8 +27,8 @@ title: Information for Librarians
     </div>
 </div>
 
-
 ## Pricing Options
+
 <div class="row pt-2 justify-content-between">
     <div class="col-md-6">
         <table class="table">
@@ -66,6 +66,8 @@ title: Information for Librarians
     <div class="col-md-4">
         <a class="btn btn-lg btn-secondary my-4" href="https://umich.box.com/s/tg64p0ysonwdq76zh07o8wczyaygxb0f">Download Title List</a>
         <a class="btn btn-lg btn-secondary my-4" href="https://www.lyrasis.org/content/Pages/product-details.aspx?pid=6A3CE662-3001-E111-B2CE-00155D0A1702">Request a Quote</a>
+
+\    <a class="btn btn-lg btn-secondary my-4" href="https://www.fulcrum.org/accessibility/#content">Accessibility Information</a>
     </div>
 
 </div>
