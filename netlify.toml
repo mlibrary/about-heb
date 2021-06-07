@@ -14,6 +14,11 @@
   status = 301
 
 [[redirects]]
+  from = "/about/for-librarians"
+  to = "/librarians"
+  status = 301
+
+[[redirects]]
   from = "/about-us/contact"
   to = "/contact"
   status = 301
