@@ -1,6 +1,6 @@
 ---
 templateKey: quick-link
 title: Title List
-pageUrl: 'https://umich.box.com/s/tg64p0ysonwdq76zh07o8wczyaygxb0f'
+pageUrl: 'https://ftp.fulcrum.org/HEB/Title_Lists/'
 order: 2
 ---
