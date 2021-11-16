@@ -11,7 +11,7 @@ title: Information for Societies
         <div class="col-md-4 text-center">
             <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 20 20" height="100px" viewBox="0 0 20 20" width="100px" fill="#333333"><g><rect fill="none" height="20" width="20" x="0"/></g><g><path d="M10,4v1h6v10h-6v1h6c0.55,0,1-0.45,1-1V5c0-0.55-0.45-1-1-1H10z"/><polygon points="9.5,6.5 8.79,7.21 11.09,9.5 3,9.5 3,10.5 11.09,10.5 8.79,12.79 9.5,13.5 13,10"/></g></svg>
             <h3 class="proxima-nova">Access</h3>
-            <p>We offer individual subscriptions to ACLS society members at the discounted price of $25/year. This is especially helpful for your members who are not affiliated with an academic library system (e.g. independent scholars, contingent faculty, etc.). Learn more about individual access.</p>
+            <p>We offer individual subscriptions to ACLS society members at the discounted price. This is especially helpful for your members who are not affiliated with an academic library system. Learn more about offering individual access through your society by contacting Sean Guyne sat <a href="mailto:guynes@umich.edu">guynes@umich.edu</a>.</p>
         </div>
         <div class="col-md-4 text-center">
             <svg xmlns="http://www.w3.org/2000/svg" height="100px" viewBox="0 0 24 24" width="100px" fill="#333333"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M12 6.5c3.79 0 7.17 2.13 8.82 5.5-1.65 3.37-5.02 5.5-8.82 5.5S4.83 15.37 3.18 12C4.83 8.63 8.21 6.5 12 6.5m0-2C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zm0 5c1.38 0 2.5 1.12 2.5 2.5s-1.12 2.5-2.5 2.5-2.5-1.12-2.5-2.5 1.12-2.5 2.5-2.5m0-2c-2.48 0-4.5 2.02-4.5 4.5s2.02 4.5 4.5 4.5 4.5-2.02 4.5-4.5-2.02-4.5-4.5-4.5z"/></svg>
