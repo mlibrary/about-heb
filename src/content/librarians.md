@@ -65,7 +65,7 @@ title: Information for Librarians
         <table class="table">
             <caption>*International pricing based on World Bank List of Economies</caption>
             <thead class="thead-dark proxima-nova">
-                <tr>    <th scope="col">High Income</th>
+                <tr>    <th scope="col"></th><th scope="col">High Income</th>
    
                     <th scope="col">Upper Middle Income (25%)</th><th scope="col">Lower Middle Income (50%)</th>
 
@@ -74,19 +74,19 @@ title: Information for Librarians
             </thead>
             <tbody>
                 <tr>
-                    <td>$4,530</td>
+                    <td>Doctoral</td>  <td>$4,530</td>
                     <td>$3,398</td>      <td>$2,265</td>   <td>$1,133</td>
                 </tr>
                 <tr>
-                    <td>$1,751</td>
+                    <td>Master's</td> <td>$1,751</td>
                     <td>$1,313</td>  <td>$876</td>  <td>$438</td>
                 </tr>
                 <tr>
-                    <td>$1,088</td>
+                  <td>Baccalaureate</td>  <td>$1,088</td>
                     <td>$816</td><td>$544</td><td>$272</td>
                 </tr>
                 <tr>
-                    <td>$636</td>
+                    <td>Associate</td> <td>$636</td>
                     <td>$477</td><td>$318</td><td>$159</td>
                 </tr>
                 <tr>
