@@ -37,7 +37,7 @@ title: Information for Librarians
                 <tr>
                     <th scope="col">Institution Size</th>
                     <th scope="col">Price</th>
-                <tr>
+                </tr>
             </thead>
             <tbody>
                 <tr>
@@ -65,12 +65,13 @@ title: Information for Librarians
         <table class="table">
             <caption>*International pricing based on World Bank List of Economies</caption>
             <thead class="thead-dark proxima-nova">
-                <tr>    <th scope="col"></th><th scope="col">High Income</th>
-   
-                    <th scope="col">Upper Middle Income (25%)</th><th scope="col">Lower Middle Income (50%)</th>
-
-<th scope="col">Lower  Income (75%)</th>
-                <tr>
+                <tr>    
+                <th scope="col">Degree</th>
+                <th scope="col">High Income</th>
+                <th scope="col">Upper Middle Income (25%)</th>
+                <th scope="col">Lower Middle Income (50%)</th>
+                <th scope="col">Lower Income (75%)</th>
+                </tr>
             </thead>
             <tbody>
                 <tr>
@@ -89,13 +90,11 @@ title: Information for Librarians
                     <td>Associate</td> <td>$636</td>
                     <td>$477</td><td>$318</td><td>$159</td>
                 </tr>
-                <tr>
-        
-                </tr>
             </tbody>
         </table>
     </div>
     <div class="col-md-4">
         <a class="btn btn-lg btn-secondary my-4" href="https://ftp.fulcrum.org/HEB/Title_Lists/">Download Title Lists</a>
         <a class="btn btn-lg btn-secondary my-4" href="https://ftp.fulcrum.org/HEB/MARC/">Download MARC Records</a>
-        <a class="btn btn-lg btn-secondary my-4" href="https://www.lyrasis.org/content/Pages/product-details.aspx?pid=6A3CE662-3001-E111-B2CE-00155D0A1702">Request a Quote</a>  <a class="btn btn-lg btn-secondary my-4" href="https://tools.lib.umich.edu/confluence/display/FPS/ACLS+HEB">Technical FAQ</a>   <a class="btn btn-lg btn-secondary my-4" href="https://www.fulcrum.org/accessibility/#content">Accessibility Information</a>     </div>
+        <a class="btn btn-lg btn-secondary my-4" href="https://www.lyrasis.org/content/Pages/product-details.aspx?pid=6A3CE662-3001-E111-B2CE-00155D0A1702">Request a Quote</a>  <a class="btn btn-lg btn-secondary my-4" href="https://tools.lib.umich.edu/confluence/display/FPS/ACLS+HEB">Technical FAQ</a>   <a class="btn btn-lg btn-secondary my-4" href="https://www.fulcrum.org/accessibility/#content">Accessibility Information</a>     
+    </div>
