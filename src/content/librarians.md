@@ -96,5 +96,5 @@ title: Information for Librarians
     <div class="col-md-4">
         <a class="btn btn-lg btn-secondary my-4" href="https://ftp.fulcrum.org/HEB/Title_Lists/">Download Title Lists</a>
         <a class="btn btn-lg btn-secondary my-4" href="https://ftp.fulcrum.org/HEB/MARC/">Download MARC Records</a>
-        <a class="btn btn-lg btn-secondary my-4" href="https://www.lyrasis.org/content/Pages/product-details.aspx?pid=6A3CE662-3001-E111-B2CE-00155D0A1702">Request a Quote</a>  <a class="btn btn-lg btn-secondary my-4" href="https://tools.lib.umich.edu/confluence/display/FPS/ACLS+HEB">Technical FAQ</a>   <a class="btn btn-lg btn-secondary my-4" href="https://www.fulcrum.org/accessibility/#content">Accessibility Information</a>     
+        <a class="btn btn-lg btn-secondary my-4" href="https://www.lyrasis.org/content/Pages/product-details.aspx?pid=6A3CE662-3001-E111-B2CE-00155D0A1702">Request a Quote</a>  <a class="btn btn-lg btn-secondary my-4" href="https://mpub.atlassian.net/wiki/spaces/FPS/pages/66453812/ACLS+HEB">Technical FAQ</a>   <a class="btn btn-lg btn-secondary my-4" href="https://www.fulcrum.org/accessibility/#content">Accessibility Information</a>     
     </div>
