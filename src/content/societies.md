@@ -27,6 +27,10 @@ title: Information for Societies
 </div>
 
 ## Individual Subscriptions
+
 <div class="individuals">
-<p>Members of ACLS societies are eligible to subscribe to ACLS Humanities EBook for a small annual fee paid to their societies. Currently, three societies participate in the Individual Subscriptions program: American Historical Association, Oral History Association, and Bibliographical Society of America. If your ACLS society is not on this list, <a href="https://acls.org/Member-Societies/Society-Profiles.aspx"> ask them to join</a>.</p>
-</div>
+<p>Members of ACLS societies are eligible to subscribe to ACLS Humanities Ebook for a small annual fee paid to their societies. The list of societies that currently participate is below. If your ACLS society is not on this list, <a href="https://acls.org/Member-Societies/Society-Profiles.aspx"> ask them to join</a>.</p>
+
+* American Historical Association
+* Oral History Association
+* Bibliographical Society of America
