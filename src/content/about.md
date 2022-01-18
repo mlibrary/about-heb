@@ -4,20 +4,13 @@ title: About ACLS HEB
 ---
 <p class="lead">The American Council of Learned Societies Humanities Ebook Collection is a collection of over 5,700 scholarly books, from over 125 publishers, sold as a subscription package to over 800 library subscribers. ACLS HEB is a collection curated by scholars for scholars; members of ACLS learned societies nominate books for inclusion, and Michigan Publishing licenses them and pays royalties to contributing publishers.</p>
 
-## Diversity, Equity, Inclusion, and Accessibility
-
-The ACLS Humanities Ebook Collection (ACLS HEB) is a collaboration between the American Council of Learned Societies (ACLS), Michigan Publishing, and the Fulcrum publishing platform. There are three main areas in which ACLS and Michigan Publishing have worked together to improve diversity and inclusion for the ACLS HEB collection: through introducing values-based criteria into collection development; through improving the accessibility of the platform; and through experimenting with open access models that increase equitable access. Read more about our [shared DEIA commitments here](https://docs.google.com/document/d/12zs1fttRQ3cz9iXJfrWJFtUD_1p0horfCRnleNkEhiA/edit?usp=sharing).
-
-## History
-
-ACLS HEB began in 1999 as the History Ebook Project, with funding from the Andrew W. Mellon Foundation and the Gladys Krieble Delmas Foundation. The collection was originally launched online in 2002, thanks to support with development from the Organization of American Historians, the American Historical Association, the Renaissance Society of America, the Society for the History of Technology, and the Middle East Studies Association. In 2019, ACLS COO and Vice President James Shulman led an initiative to transfer operations of ACLS HEB to Michigan Publishing (which had hosted the collection since 2005). In 2020, more funding from the Mellon Foundation has given MPUB an opportunity to re-envision the collection by improving user experience, increasing access, and developing the list of titles to include more analyses of power and social location.
-
 ## Distinctive Features
 
 ACLS HEB is unique among e-book collections in three ways: 
-1) It is curated by scholars, for scholars; 
-2) It is hosted on the open-source Fulcrum platform; 
-3) The curation process has invested in unique and otherwise hard to access backlist content.
+
+1. It is curated by scholars, for scholars; 
+2. It is hosted on the open-source Fulcrum platform; 
+3. The curation process has invested in unique and otherwise hard to access backlist content.
 
 <div class="features">
     <div class="row justify-content-between py-4">
@@ -38,3 +31,29 @@ ACLS HEB is unique among e-book collections in three ways:
         </div>
     </div>
 </div>
+
+## Principles
+
+The ACLS Humanities Ebook Collection is a values-based initiative that adheres to the following principles. We use these to hold ourselves accountable and decide what activities to prioritize and invest in. They were established with the help of the [HuMetrics HSS](https://humetricshss.org/) team.
+
+**Equity**
+
+We are committed to developing strategies and pricing that improve equitable access to our publications and the selection of content that centers previously marginalized voices and overlooked subject areas.
+
+**Quality**
+
+We are building a collection that supports excellence in both research and teaching in the humanities and social sciences. We partner with publishers and ACLS societies to curate titles that address gaps in the collection and provide access to foundational, hard-to-find backlist titles, many of which have been digitized specifically for the collection.
+
+**Community**
+
+ACLS HEB was created as a non-profit resource responsive to the needs of libraries, learned societies, publishers, and scholars. We work to incorporate their feedback and needs into the development of the collection.
+
+
+
+## Diversity, Equity, Inclusion, and Accessibility
+
+The ACLS Humanities Ebook Collection (ACLS HEB) is a collaboration between the American Council of Learned Societies (ACLS), Michigan Publishing, and the Fulcrum publishing platform. There are three main areas in which ACLS and Michigan Publishing have worked together to improve diversity and inclusion for the ACLS HEB collection: through introducing values-based criteria into collection development; through improving the accessibility of the platform; and through experimenting with open access models that increase equitable access. Read more about our [shared DEIA commitments here](https://docs.google.com/document/d/12zs1fttRQ3cz9iXJfrWJFtUD_1p0horfCRnleNkEhiA/edit?usp=sharing).
+
+## History
+
+ACLS HEB began in 1999 as the History Ebook Project, with funding from the Andrew W. Mellon Foundation and the Gladys Krieble Delmas Foundation. The collection was originally launched online in 2002, thanks to support with development from the Organization of American Historians, the American Historical Association, the Renaissance Society of America, the Society for the History of Technology, and the Middle East Studies Association. In 2019, ACLS COO and Vice President James Shulman led an initiative to transfer operations of ACLS HEB to Michigan Publishing (which had hosted the collection since 2005). In 2020, more funding from the Mellon Foundation has given MPUB an opportunity to re-envision the collection by improving user experience, increasing access, and developing the list of titles to include more analyses of power and social location.
