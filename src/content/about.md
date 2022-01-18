@@ -30,7 +30,6 @@ ACLS HEB is unique among e-book collections in three ways:
             <p>Curated selection on a durable platform means more access to backlist content that is otherwise inaccessible.</p>
         </div>
     </div>
-</div>
 
 ## Principles
 
@@ -47,8 +46,6 @@ We are building a collection that supports excellence in both research and teach
 **Community**
 
 ACLS HEB was created as a non-profit resource responsive to the needs of libraries, learned societies, publishers, and scholars. We work to incorporate their feedback and needs into the development of the collection.
-
-
 
 ## Diversity, Equity, Inclusion, and Accessibility
 
