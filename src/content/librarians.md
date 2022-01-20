@@ -32,7 +32,7 @@ title: Information for Librarians
 <div class="row pt-2 justify-content-between">
     <div class="col-md-6">
         <table class="table">
-            <caption>*Prices effective January 1, 2021</caption>
+            <caption>*Prices effective January 1, 2022</caption>
             <thead class="thead-dark proxima-nova">
                 <tr>
                     <th scope="col">Institution Size</th>
@@ -42,22 +42,22 @@ title: Information for Librarians
             <tbody>
                 <tr>
                     <td>Very large institutions</td>
-                    <td>$4,530</td>
+                    <td>$4,666</td>
                 </tr>
                 <tr>
                     <td>Large institutions</td>
-                    <td>$3,262</td>
+                    <td>$3,360</td>
                 </tr>
                 <tr>
                     <td>Medium institutions</td>
-                    <td>$1,751</td>
+                    <td>$1,804</td>
                 </tr>
                 <tr>
                     <td>Small institutions</td>
-                    <td>$1,088</td>
+                    <td>$1,121</td>
                 </tr>             <tr>
                     <td>Very small institutions</td>
-                    <td>$636</td>
+                    <td>$655</td>
                 </tr>
    </tbody>
         </table>  </div><div class="row pt-2 justify-content-between">
