@@ -27,9 +27,7 @@ title: Information for Librarians
 
 ## How to Purchase
 
-If you are a library interested in subscribing to ACLS HEB, please contact LYRASIS at <a href="mailto:aclsheb@lyrasis.org">aclsheb@lyrasis.org</a>.
-
-  <a class="btn btn-lg btn-secondary my-4" href="https://www.lyrasis.org/content/Pages/product-details.aspx?pid=6A3CE662-3001-E111-B2CE-00155D0A1702">Request a Quote</a> 
+If you are a library interested in subscribing to ACLS HEB, please contact LYRASIS at <a href="mailto:aclsheb@lyrasis.org">aclsheb@lyrasis.org</a>.  <a class="btn btn-lg btn-secondary my-4" href="https://www.lyrasis.org/content/Pages/product-details.aspx?pid=6A3CE662-3001-E111-B2CE-00155D0A1702">Request a Quote</a> 
 
 ## Pricing 
 
