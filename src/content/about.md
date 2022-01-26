@@ -6,7 +6,7 @@ title: About ACLS HEB
 
 ## Distinctive Features
 
-ACLS HEB is unique among e-book collections in three ways: 
+ACLS HEB is unique among ebook collections in three ways: 
 
 1. It is curated by scholars, for scholars; 
 2. It is hosted on the open-source Fulcrum platform; 
@@ -22,7 +22,7 @@ ACLS HEB is unique among e-book collections in three ways:
         <div class="col-md-4 text-center">
             <svg xmlns="http://www.w3.org/2000/svg" height="100px" viewBox="0 0 24 24" width="100px" fill="#333333"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M20.5 6c-2.61.7-5.67 1-8.5 1s-5.89-.3-8.5-1L3 8c1.86.5 4 .83 6 1v13h2v-6h2v6h2V9c2-.17 4.14-.5 6-1l-.5-2zM12 6c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2z"/></svg>
             <h3 class="proxima-nova">Enriched User Experience</h3>
-            <p>The collection is hosted on the <a href="http://www.fulcrum.org">Fulcrum</a> publishing platform which  presents long-form scholarly research in its full richness, and it emphasizes the values of durability, discoverability, accessibility, and flexibility.</p>
+            <p>The collection is hosted on the <a href="http://www.fulcrum.org">Fulcrum publishing platform</a> which presents long-form scholarly research in its full richness, and it emphasizes the values of durability, discoverability, accessibility, and flexibility.</p>
         </div>
         <div class="col-md-4 text-center">
             <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 20 20" height="100px" viewBox="0 0 20 20" width="100px" fill="#333333"><title>Document scanner icon</title><rect fill="none" height="20" width="20"/><path d="M6,2.5H3.5V5H2V1h4V2.5z M16.5,5l0-2.5l-2.5,0L14,1l4,0l0,4L16.5,5z M14,17.5h2.5V15H18v4h-4V17.5z M3.5,15l0,2.5l2.5,0 L6,19l-4,0l0-4L3.5,15z M13.49,14.5H6.5l0.01-9h6.99L13.49,14.5z M6.43,4C5.64,4,5,4.67,5,5.5v9C5,15.33,5.64,16,6.43,16h7.14 c0.79,0,1.43-0.67,1.43-1.5v-9C15,4.67,14.36,4,13.57,4H6.43z M12,7H8v1.5h4V7z M12,9.25H8v1.5h4V9.25z M12,11.5H8V13h4V11.5z"/></svg>
