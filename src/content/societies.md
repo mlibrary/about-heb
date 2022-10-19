@@ -26,6 +26,15 @@ title: Information for Societies
     </div>
 </div>
 
+## Timeline for Engagement with ACLS Societies on Title Recommendations
+
+In the course of developing the ACLS HEB collection, our staff work with ACLS societies to receive recommendations for new titles, work directly with publishers on licensing agreements to include their books in the collection, and create EBook files of each to be hosted in the collection. Our work to update the collection with new titles—what we call a “round”—occurs on the following annual schedule:
+
+* F﻿ebruary 1 — Deadline for societies to submit content recommendations to HEB Acquiring Editor
+* M﻿arch 1 — HEB Acquiring Editor sends annual acquisition shortlist to the Publishing Services Librarian for licensing
+* A﻿ugust 1 — Publisher agreements to license books for the collection are due
+* O﻿ctober — The new round is made available and ACLS societies are notified about which of their recommendations are included in the round
+
 ## Individual Subscriptions
 
 <div class="individuals">
