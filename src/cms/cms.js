@@ -14,14 +14,9 @@ if (process.env.BRANCH === "preview") {
   CMS.init({
     config: {
       backend: {
-        name: 'gitlab',
-        repo: 'michigan-publishing/about-heb',
-        branch: 'preview',
-        auth_type: 'implicit',
-        app_id: '',
-        api_root: 'https://gitlab.umich.edu/api/v4',
-        base_url: 'https://gitlab.umich.edu',
-        auth_endpoint: 'oauth/authorize'
+        name: 'github',
+        repo: 'mlibrary/about-heb',
+        branch: 'preview'
       }
     }
   });
@@ -29,14 +24,9 @@ if (process.env.BRANCH === "preview") {
   CMS.init({
     config: {
       backend: {
-        name: 'gitlab',
-        repo: 'michigan-publishing/about-heb',
-        branch: 'master',
-        auth_type: 'pkce',
-        app_id: 'f14f9091b4b9042f99361038866c35181baa350e3b853a07af1ff15d97cb1fd2',
-        api_root: 'https://gitlab.umich.edu/api/v4',
-        base_url: 'https://gitlab.umich.edu',
-        auth_endpoint: 'oauth/authorize'
+        name: 'github',
+        repo: 'mlibrary/about-heb',
+        branch: 'master'
       }
     }
   });
