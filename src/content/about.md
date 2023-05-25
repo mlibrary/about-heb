@@ -49,7 +49,7 @@ ACLS HEB was created as a non-profit resource responsive to the needs of librari
 
 ## Diversity, Equity, Inclusion, and Accessibility
 
-The ACLS Humanities Ebook Collection (ACLS HEB) is a collaboration between the American Council of Learned Societies (ACLS), Michigan Publishing, and the Fulcrum publishing platform. There are three main areas in which ACLS and Michigan Publishing have worked together to improve diversity and inclusion for the ACLS HEB collection: through introducing values-based criteria into collection development; through improving the accessibility of the platform; and through experimenting with open access models that increase equitable access. Read more about our [shared DEIA commitments here](https://docs.google.com/document/d/12zs1fttRQ3cz9iXJfrWJFtUD_1p0horfCRnleNkEhiA/edit?usp=sharing).
+The ACLS Humanities Ebook Collection (ACLS HEB) is a collaboration between the American Council of Learned Societies (ACLS), Michigan Publishing, and the Fulcrum publishing platform. There are three main areas in which ACLS and Michigan Publishing have worked together to improve diversity and inclusion for the ACLS HEB collection: through introducing values-based criteria into collection development; through improving [the accessibility of the platform](https://fulcrum.org/accessibility); and through experimenting with open access models that increase equitable access. Read more about our [shared DEIA commitments here](https://docs.google.com/document/d/12zs1fttRQ3cz9iXJfrWJFtUD_1p0horfCRnleNkEhiA/edit?usp=sharing).
 
 ## History
 
