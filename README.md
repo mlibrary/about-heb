@@ -1,4 +1,4 @@
-## About Lever Press
+## About ACLS Humanities Ebook 
 
 This is the brochureware/about informational website for the ACLS Humanities EBook collection on Fulcrum.
 
