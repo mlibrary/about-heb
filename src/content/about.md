@@ -6,7 +6,7 @@ title: About ACLS HEB
 
 ## Distinctive Features
 
-ACLS HEB is unique among ebook collections in 3 ways: 
+ACLS HEB is unique among ebook collections in three ways:
 
 1. It is curated by scholars, for scholars; 
 2. It is hosted on the open-source Fulcrum platform; 
