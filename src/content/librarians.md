@@ -36,7 +36,7 @@ If you are a library interested in subscribing to ACLS HEB, please contact LYRAS
 <div class="row pt-2 justify-content-between">
     <div class="col-md-6">
         <table class="table">
-            <caption>*Prices effective January 1, 2023</caption>
+            <caption>*Prices effective January 1, 2024</caption>
             <thead class="thead-dark proxima-nova">
                 <tr>
                     <th scope="col">Institution Size</th>
@@ -46,22 +46,22 @@ If you are a library interested in subscribing to ACLS HEB, please contact LYRAS
             <tbody>
                 <tr>
                     <td>Very large institutions</td>
-                    <td>$4,806</td>
+                    <td>$4,951</td>
                 </tr>
                 <tr>
                     <td>Large institutions</td>
-                    <td>$3,461</td>
+                    <td>$3,565</td>
                 </tr>
                 <tr>
                     <td>Medium institutions</td>
-                    <td>$1,858</td>
+                    <td>$1,914</td>
                 </tr>
                 <tr>
                     <td>Small institutions</td>
-                    <td>$1,155</td>
+                    <td>$1,190</td>
                 </tr>             <tr>
                     <td>Very small institutions</td>
-                    <td>$675</td>
+                    <td>$696</td>
                 </tr>
    </tbody>
         </table>  </div><div class="row pt-2 justify-content-between">
