@@ -30,7 +30,7 @@ const Impact = ({data}) => {
         <div className="google-data-studio">
           <ReactMarkdown source={googleDataStudioDescription} />
           <div className="embed-responsive embed-responsive-1by1">
-            <iframe title="ACLS HEB Usage Report" className="embed-responsive-item" src="https://datastudio.google.com/embed/reporting/f44ea901-ac12-4330-ab7d-f75781f6757e/page/9LCE"></iframe>
+            <iframe title="ACLS HEB Usage Report" className="embed-responsive-item" src="https://lookerstudio.google.com/embed/reporting/ffc10351-ef28-439f-a848-a31fb184f865/page/9LCE"></iframe>
           </div>
         </div>
       </div>
