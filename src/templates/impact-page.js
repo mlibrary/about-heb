@@ -24,7 +24,7 @@ const Impact = ({data}) => {
         <div className="readership-map">
           <ReactMarkdown source={readershipMapDescription} />
           <div className="readership-map-embed">
-            <iframe title="ACLS HEB Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.view=22140843"></iframe>
+            <iframe title="ACLS HEB Readership Map" frameborder="0" height="650" width="100%" src="https://maps.publishing.umich.edu/readership-map/?filter.stream=4755115906"></iframe>
           </div>
         </div>
         <div className="google-data-studio">
