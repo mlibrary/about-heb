@@ -43,3 +43,4 @@ In the course of developing the ACLS HEB collection, our staff work with ACLS so
 * American Historical Association
 * Organization of American Historians
 * Bibliographical Society of America
+* Medieval Academy of America
