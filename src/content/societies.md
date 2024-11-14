@@ -41,5 +41,5 @@ In the course of developing the ACLS HEB collection, our staff work with ACLS so
 <p>Members of ACLS societies are eligible to subscribe to ACLS Humanities Ebook for a small annual fee paid to their societies. The list of societies that currently participate is below. If your ACLS society is not on this list, <a href="https://acls.org/Member-Societies/Society-Profiles.aspx"> ask them to join</a>.</p>
 
 * American Historical Association
-* Oral History Association
+* Organization of American Historians
 * Bibliographical Society of America
