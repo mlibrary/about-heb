@@ -36,7 +36,7 @@ If you are a library interested in subscribing to ACLS HEB, please contact LYRAS
 <div class="row pt-2 justify-content-between">
     <div class="col-md-6">
         <table class="table">
-            <caption>*Prices effective January 1, 2024</caption>
+            <caption>*Prices effective January 1, 2025</caption>
             <thead class="thead-dark proxima-nova">
                 <tr>
                     <th scope="col">Institution Size</th>
@@ -46,22 +46,22 @@ If you are a library interested in subscribing to ACLS HEB, please contact LYRAS
             <tbody>
                 <tr>
                     <td>Very large institutions</td>
-                    <td>$4,951</td>
+                    <td>$5,100</td>
                 </tr>
                 <tr>
                     <td>Large institutions</td>
-                    <td>$3,565</td>
+                    <td>$3,672</td>
                 </tr>
                 <tr>
                     <td>Medium institutions</td>
-                    <td>$1,914</td>
+                    <td>$1,971</td>
                 </tr>
                 <tr>
                     <td>Small institutions</td>
-                    <td>$1,190</td>
+                    <td>$1,226</td>
                 </tr>             <tr>
                     <td>Very small institutions</td>
-                    <td>$696</td>
+                    <td>$717</td>
                 </tr>
    </tbody>
         </table>  </div><div class="row pt-2 justify-content-between">
@@ -79,20 +79,20 @@ If you are a library interested in subscribing to ACLS HEB, please contact LYRAS
             </thead>
             <tbody>
                 <tr>
-                    <td>Doctoral</td>  <td>$4,666</td>
-                    <td>$3,500</td>      <td>$2,333</td>   <td>$1,167</td>
+                    <td>Doctoral</td>  <td>$4,806</td>
+                    <td>$3,605</td>      <td>$2,403</td>   <td>$1,202</td>
                 </tr>
                 <tr>
-                    <td>Master's</td> <td>$1,804</td>
-                    <td>$1,353</td>  <td>$903</td>  <td>$452</td>
+                    <td>Master's</td> <td>$1,858</td>
+                    <td>$1,394</td>  <td>$930</td>  <td>$466</td>
                 </tr>
                 <tr>
-                  <td>Baccalaureate</td>  <td>$1,121</td>
-                    <td>$841</td><td>$561</td><td>$281</td>
+                  <td>Baccalaureate</td>  <td>$1,155</td>
+                    <td>$866</td><td>$578</td><td>$289</td>
                 </tr>
                 <tr>
-                    <td>Associate</td> <td>$656</td>
-                    <td>$492</td><td>$328</td><td>$164</td>
+                    <td>Associate</td> <td>$676</td>
+                    <td>$507</td><td>$338</td><td>$169</td>
                 </tr>
             </tbody>
         </table>
