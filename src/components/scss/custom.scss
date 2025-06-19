@@ -66,13 +66,12 @@ h5 {
   margin-top: 1rem;
 }
 
-a:focus,
-button:focus {
-  color: #495057 !important;
-  background-color: #fff !important;
-  border-color: #737373 !important;
-  outline: 0 !important;
-  box-shadow: 0 0 0 0.2rem rgba(51, 51, 51, 0.25) !important;
+*:focus {
+	/* inner indicator */
+	outline: 2px #F9F9F9 solid !important;
+	outline-offset: 0;
+	/* outer indicator */
+	box-shadow: 0 0 0 4px #193146 !important;
 }
 
 .text-light {
