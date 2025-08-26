@@ -18,7 +18,7 @@ The majority of the ACLS Humanities Ebook Collection consists of reformatted sch
 * PDFs created by reformatting print to digital include page scans with an uncorrected OCR text layer to enable functionality with text-to-speech and assistive technology software. Bookmarks have been added to these PDFs to enable content navigation within reading systems, including the Fulcrum Reader. However, these PDFs do not contain structural markup and tagging to identify document structure such as headings or tables.
 * PDFs provided by publishers include OCR or born-digital text, bookmarks, but often do not include structural markup and tagging.
 * EPUBs created by reformatting print to digital and include reflowable, structured text. The content of these EPUBs are compatible with assistive technology. Often, these titles are not available for download by chapter. As of August 2025, content reformatted to EPUB3 will conform WCAG 2.2 AA and EPUB Accessibility 1.1 standards.
-* EPUBs provided by publishers are converted to EPUB3 and include reflowable, structured text and are compatible with assistive technology. Strucutral markup and conformance to accessibility standards will vary from publisher to publisher.
+* EPUBs provided by publishers are converted to EPUB3 and include reflowable, structured text and are compatible with assistive technology. Structural markup and conformance to accessibility standards will vary from publisher to publisher.
 
 Most titles in the collection do not contain textual descriptions of images. Only titles in PDF format are available for chapter download.
 
@@ -42,7 +42,7 @@ Beginning in August 2025, accessibility is built into our workflow with the goal
     </thead>
     <tbody>
        <tr>
-            <th scope="row">Develop remediation workflow and remediate Batch 22 titles</th>
+            <th scope="row">Develop remediation workflow and remediate Round 22 titles</th>
             <td>Workflow established to ensure future titles added to collection meet accessibility conformance requirements. Using upcoming batch of nearly 80 titles as a use case for developing workflow.</td>
             <td>Q3/Q4 2025</td>
             <td>In progress</td>
