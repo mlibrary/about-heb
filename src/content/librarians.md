@@ -88,7 +88,7 @@ If you are a library interested in subscribing to ACLS HEB, please contact LYRAS
                 </tr>
                 <tr>
                   <td>Baccalaureate</td>  <td>$1,189</td>
-                    <td>$892</td><td>$595/td><td>$298</td>
+                    <td>$892</td><td>$595</td><td>$298</td>
                 </tr>
                 <tr>
                     <td>Associate</td> <td>$696</td>
