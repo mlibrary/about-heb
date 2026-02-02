@@ -79,20 +79,20 @@ If you are a library interested in subscribing to ACLS HEB, please contact LYRAS
             </thead>
             <tbody>
                 <tr>
-                    <td>Doctoral</td>  <td>$4,806</td>
-                    <td>$3,605</td>      <td>$2,403</td>   <td>$1,202</td>
+                    <td>Doctoral</td>  <td>$4,950</td>
+                    <td>$3,713</td>      <td>$2,475</td>   <td>$1,238</td>
                 </tr>
                 <tr>
-                    <td>Master's</td> <td>$1,858</td>
-                    <td>$1,394</td>  <td>$930</td>  <td>$466</td>
+                    <td>Master's</td> <td>$1,914</td>
+                    <td>$1,435</td>  <td>$958</td>  <td>$480</td>
                 </tr>
                 <tr>
-                  <td>Baccalaureate</td>  <td>$1,155</td>
-                    <td>$866</td><td>$578</td><td>$289</td>
+                  <td>Baccalaureate</td>  <td>$1,189</td>
+                    <td>$892</td><td>$595/td><td>$298</td>
                 </tr>
                 <tr>
-                    <td>Associate</td> <td>$676</td>
-                    <td>$507</td><td>$338</td><td>$169</td>
+                    <td>Associate</td> <td>$696</td>
+                    <td>$522</td><td>$348</td><td>$174</td>
                 </tr>
             </tbody>
         </table>
