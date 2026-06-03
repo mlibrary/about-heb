@@ -4,7 +4,7 @@ title: Accessibility
 ---
 <p class="lead">We make every reasonable effort to ensure our ebooks are available to all readers, especially those with disabilities, allocating significant time and resources towards ensuring readers have equal access.</p>
 
-*Last updated: August 25, 2025*
+*Last updated: June 3, 2026*
 
 ## Accessible File Requests
 
@@ -42,12 +42,7 @@ Beginning in August 2025, accessibility is built into our workflow with the goal
         </tr>
     </thead>
     <tbody>
-       <tr>
-            <th scope="row">Develop remediation workflow and remediate Round 22 titles</th>
-            <td>Workflow established to ensure future titles added to collection meet accessibility conformance requirements. Using upcoming batch of nearly 80 titles as a use case for developing workflow.</td>
-            <td>Q1 2026</td>
-            <td>In progress</td>
-        </tr>
+       
        <tr>
             <th scope="row">Reformat high usage titles to accessible EPUB</th>
             <td>Prioritizes remediation and reformatting of high-use PDF content to accessible EPUB, including working with publishers to procure EPUB files that may be available.</td>
@@ -57,14 +52,21 @@ Beginning in August 2025, accessibility is built into our workflow with the goal
         <tr>
             <th scope="row">Create title-level accessibility conformance tracker for all HEB titles</th>
             <td>A publicly available spreadsheet with title-level accessibility and format information organized by product year.</td>
-            <td>Q1 2026</td>
+            <td>Q2/Q3 2026</td>
             <td>In progress</td>
+        </tr>
+
+<tr>
+            <th scope="row">Develop remediation workflow and remediate Round 22 titles</th>
+            <td>Workflow established to ensure future titles added to collection meet accessibility conformance requirements. Using upcoming batch of nearly 80 titles as a use case for developing workflow.</td>
+            <td>Q1-Q2 2026</td>
+            <td>Completed</td>
         </tr>
          <tr>
             <th scope="row">Add title-level accessibility metadata for PDF content</th>
             <td>Complete accessibility metadata for all titles in HEB.</td>
-            <td>Q1 2026</td>
-            <td>In progress</td>
+            <td>Q1-Q2 2026</td>
+            <td>Completed</td>
         </tr>
     </tbody>
 </table>
